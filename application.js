@@ -1,5 +1,5 @@
 someImportantFunction:( thing ) {
-  this.someInterestingFunction( thing );
+  return someInterestingFunction( thing );
 }
 
 someInterestingFunction:( thing ) {

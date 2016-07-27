@@ -1,5 +1,5 @@
 someImportantFunction:( thing ) {
-  this.someInterestingFunction( thing );
+  return someInterestingFunction( thing );
 }
 
 someInterestingFunction:( thing ) {
@@ -8,4 +8,16 @@ someInterestingFunction:( thing ) {
 
 someOtherInterestingFunction( thing ) {
  return thing.somethingElseInteresting()
+}
+
+anAditionalFeature:( thing ) {
+  someOtherInterestingThing() ? weFoundSomeThings() : noThingsFound()
+}
+
+weFoundSomeThings:() {
+  return true
+}
+
+noThingsFound:() {
+  return false
 }

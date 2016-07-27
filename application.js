@@ -6,7 +6,7 @@ someInterestingFunction:( thing ) {
   return thing.somethingInteresting()
 }
 
-someOtherInterestingFunction( thing ) {
+someOtherInterestingFunction:( thing ) {
  return thing.somethingElseInteresting()
 }
 

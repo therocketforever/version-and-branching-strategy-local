@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 - Added another cool feature someone wanted  
+- Corrects syntax error found in production code--
 
 
 ## [1.0.0][2016-07-27]

@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.  
 This project adheres to [Semantic Versioning](http://semver.org/).  
 
+## [Unreleased]
+- Corrects syntax error found in production code--
+
 ## [1.0.0][2016-07-27]
 ### Resolves
 - [#000000001] Make some changes on a local topic branch  

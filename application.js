@@ -1,4 +1,8 @@
 someImportantFunction:( thing ) {
-  return thing.somethingImprotant()
+  this.someInterestingFunction( thing );
+}
+
+someInterestingFunction:( thing ) {
+  return thing.somethingInteresting()
 }
 

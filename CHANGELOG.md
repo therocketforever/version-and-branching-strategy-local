@@ -8,3 +8,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Created CHANGELOG.md  
 - Implemented a _New_ Feature on a *Local _Topic Branch_*  
 - Refactored _New_ Feature on a *Local _Topic BRanch_*  
+- Developed Another Feature on *Local _Topic Branch_*
+

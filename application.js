@@ -6,3 +6,6 @@ someInterestingFunction:( thing ) {
   return thing.somethingInteresting()
 }
 
+someOtherInterestingFunction( thing ) {
+ return thing.somethingElseInteresting()
+}
